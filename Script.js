@@ -41,6 +41,6 @@ total = total.toFixed(2);
 //finally displaying the tip value
 document.querySelector('.tip').style.display = 'block';
 document.querySelector('#total').innerHTML = total;
-}
+
 
 } 
