@@ -1,12 +1,12 @@
 body {
-    background-color:  #d2d8e2;
+    background-color:   #e3f1f1;
     font-family: "Raleway", sans-serif;
 }
 
 .container {
     width: 350px;
     height: 500px;
-    background-color: rgb(136, 120, 120);
+    background-color:rgba(131, 142, 145, 0.692);
     position: absolute;
     left: 50%;
     top: 50%;
